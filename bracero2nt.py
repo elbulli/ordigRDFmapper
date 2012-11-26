@@ -18,7 +18,8 @@ for record in tree.getroot():
     for tag in record:
         if tag.tag in conf['mappings']:
             predicate = conf['mappings'][tag.tag].split(':')
-            graph.add((pid, ns[predicate[0]][predicate[1]], rdflib.Literal(tag.text)))
+            if tag.text != None:
+              graph.add((pid, ns[predicate[0]][predicate[1]], rdflib.Literal(tag.text)))
     count += 1
 
 outfile = open('braceros.nt', 'w')
