@@ -1,0 +1,23 @@
+namespaces:
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  skos: "http://www.w3.org/2004/02/skos/core#"
+  dc: "http://purl.org/dc/terms/"
+  bibo: "http://purl.org/ontology/bibo/"
+  foaf: "http://xmlns.com/foaf/0.1/"
+  geo: "http://www.w3.org/2003/01/geo/wgs84_pos#" 
+  frbr: "http://iflastandards.info/ns/fr/frbr/frbrer/"
+  mads: "http://www.loc.gov/mads/rdf/v1#"
+  marcrel: "http://id.loc.gov/vocabulary/relators/"
+
+mappings:
+  image_title: dc:title
+  photographer: marcrel:PHO
+  date: dc:date
+  description_notes: dc:description
+  subject: dc:subject
+  object_type: dc:type
+  item_number: dc:identifier
+  
+  
