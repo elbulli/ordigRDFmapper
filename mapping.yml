@@ -20,5 +20,5 @@ mappings:
   subject: dc:subject
   object_type: dc:type
   item_number: dc:identifier
-  full_resolution: premis:originalName
+  full_resolution_: premis:originalName
   

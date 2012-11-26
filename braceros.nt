@@ -1,797 +1,900 @@
-<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/subject> "Hop pickers" .
-<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/subject> "Hops" .
-<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/description> "Hardwick and his crew at work in the hop field" .
-<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/identifier> "#2969" .
-<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/title> "Working in hop fields" .
-<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/subject> "Hops" .
-<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/description> "Stacking the hop sacks in the field after weighing" .
-<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/identifier> "#2969" .
-<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/title> "Stacking hop sacks" .
-<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/date> "1944" .
-<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/description> "A camp with permanent headquarters, buildings and frame cabins used for the Mexicans at Nyssa" .
-<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/identifier> "P120:2387" .
-<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/title> "Camp headquarters, Nyssa" .
-<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
-<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/subject> "Peas" .
-<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/date> "1944" .
-<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/description> "Some growers stack their pea vines like hay." .
-<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/identifier> "#972" .
-<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/title> "Boxes of pea vines" .
-<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
-<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/subject> "Potatoes" .
-<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/description> "Harvesting the early potato crop in Malheur county was made possible by the presence of the Mexicans. One example is this digger at work on the Roy Holmes farm." .
-<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/identifier> "P120:2428" .
-<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/title> "Potato harvesting" .
-<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/subject> "Farm trucks" .
-<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/description> "Mexican workers loaded into trucks for a day of work in the fields" .
-<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/identifier> "P20:1062" .
-<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/title> "Ready for field harvesting" .
-<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/subject> "Orchards" .
-<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/subject> "Cherries" .
-<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/description> "Cherries were so much in demand this year that even the Black Republican variety of small, black cherries were picked clean by the Mexicans and sold for a good price." .
-<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/identifier> "P120:2777" .
-<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/title> "Picking cherries" .
-<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/subject> "Flax" .
-<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/date> "ca. 1946" .
-<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/description> "Mexicans in flax field" .
-<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/identifier> "P20:1208" .
-<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/title> "Flax field" .
-<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/subject> "Social life--Music" .
-<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/subject> "Guitars" .
-<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/date> "ca. 1942" .
-<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/description> "Mexican workers play guitars during their after-work hours." .
-<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/identifier> "P20:1070" .
-<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/title> "Workers playing guitars" .
-<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/description> "Mexicans gathered at the loading area beside the road, getting their noon lunches for the day" .
-<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/identifier> "P120:2791" .
-<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/title> "Getting lunches" .
-<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/subject> "Potatoes" .
-<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/date> "1947" .
-<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/description> "Mexicans picking potatoes on lake bottom farm belong to Scott Warren, Klamath Falls" .
-<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/identifier> "P120:2599" .
-<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/title> "Picking potatoes" .
-<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/description> "Waiting in line for dinner, cafeteria style" .
-<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/identifier> "P20:803" .
-<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/title> "Workers line up for dinner" .
-<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/subject> "Prunes" .
-<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/subject> "Orchards" .
-<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/description> "Another view of prune picking" .
-<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/identifier> "#2969" .
-<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/title> "Prune picking" .
-<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
-<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/subject> "Peas" .
-<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/date> "ca. 1944" .
-<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/description> "Harvesting cannery peas in Umatilla County requires about 2,000 additional adult laborers. Mexicans such as those shown here feeding the viners saved the day in harvesting this crop." .
-<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/identifier> "P120:2413" .
-<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/title> "Loading pea viners" .
-<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/subject> "Onions" .
-<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/description> "Mexican field workers pull onions and lay them in rows to cure, on West & Lyon farm near Malin." .
-<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/identifier> "P62:419" .
-<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/title> "Pulling onions" .
-<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/subject> "Peas" .
-<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/description> "Worker shown with peas ready for canning" .
-<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/identifier> "P20:1067" .
-<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/title> "Peas ready for canning" .
-<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/subject> "Potatoes" .
-<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/date> "ca. 1946" .
-<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/description> "Mexican farm workers help harvest potatoes." .
-<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/identifier> "P20:1206" .
-<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/title> "Potato harvest" .
-<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/subject> "Beans" .
-<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/date> "ca. 1946" .
-<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/description> "Mexican bean pickers" .
-<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/identifier> "P20:1203" .
-<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/title> "Bean pickers" .
-<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/subject> "Guitars" .
-<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/subject> "Social life--Music" .
-<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/description> "In the evening musical instruments come out and typical Spanish tunes fill the air." .
-<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/identifier> "P120:2781" .
-<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/title> "Guitar playing" .
-<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/description> "Inside one of the dormitory buildings, showing the type of sleeping quarters provided" .
-<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/identifier> "P120:2744" .
-<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/title> "Sleeping quarters" .
-<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/subject> "Cucumbers" .
-<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/date> "ca. 1944" .
-<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/description> "Mexican workers picking cucumbers" .
-<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/identifier> "P40:303" .
-<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/title> "Boxes of cucumbers" .
-<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/description> "Mexcian workers harvesting tree fruit" .
+<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/94> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P040_0299.tif" .
+<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/title> "Orchard harvest" .
+<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/date> "ca. 1944" .
+<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/identifier> "P40:299" .
+<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/subject> "Orchards" .
+<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/100> <http://purl.org/dc/terms/description> "Transported Mexican National sugar beet worker" .
+<http://oregondigital.org/ns/100> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/100> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2722.tif" .
+<http://oregondigital.org/ns/100> <http://purl.org/dc/terms/title> "Sugar beet worker" .
+<http://oregondigital.org/ns/100> <http://id.loc.gov/vocabulary/relators/PHO> "Fowler, Robert, G., Jr." .
+<http://oregondigital.org/ns/100> <http://purl.org/dc/terms/date> "May 1946" .
 <http://oregondigital.org/ns/100> <http://purl.org/dc/terms/identifier> "P120:2722" .
 <http://oregondigital.org/ns/100> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/100> <http://purl.org/dc/terms/date> "May 1946" .
-<http://oregondigital.org/ns/100> <http://purl.org/dc/terms/description> "Transported Mexican National sugar beet worker" .
-<http://oregondigital.org/ns/100> <http://id.loc.gov/vocabulary/relators/PHO> "Fowler, Robert, G., Jr." .
-<http://oregondigital.org/ns/100> <http://purl.org/dc/terms/title> "Sugar beet worker" .
-<http://oregondigital.org/ns/100> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/subject> "Onions" .
-<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/date> "1944" .
-<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/description> "Crew of 20 Mexican Nationals pulling onions on the West & Lyon ranch" .
-<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/identifier> "P62:301" .
-<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/title> "Onion harvest" .
-<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/subject> "Onions" .
-<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/description> "Onions are laid out carefully with tops over bulbs to prevent sunburn." .
-<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/identifier> "P120:2735" .
-<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/title> "Onion harvest" .
-<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/subject> "Luggage" .
-<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/description> "Mexican farm workers waiting for registration" .
-<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/identifier> "P20:792" .
-<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/title> "Registration, Hood River" .
-<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/subject> "Potatoes" .
-<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/description> "Mexicans picking up potatoes were either paid 75 cents per hour or by the sack." .
-<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/identifier> "P120:2431" .
-<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/title> "Potato harvest" .
-<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/subject> "Flax" .
-<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/date> "ca. 1946" .
-<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/description> "Mexicans work for growers piling flax." .
-<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/identifier> "P20:1207" .
-<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/title> "Piling flax" .
-<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/description> "New arrivals from Mexico" .
-<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/identifier> "P20:795" .
-<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/title> "New arrivals, Hood River" .
-<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
-<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/subject> "Peas" .
-<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/date> "ca. 1945" .
-<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/description> "Mexican Nationals working on a pea viner" .
-<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/identifier> "P20:950" .
-<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/title> "Working with pea viner" .
-<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/subject> "Potatoes" .
-<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/description> "Style of picking belt, to which sack is fastened and dragged between the legs" .
-<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/identifier> "P120:2734" .
-<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/title> "Picking belt" .
-<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/subject> "Orchards" .
-<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/subject> "Apples" .
-<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/description> "Mexicans learn quickly to handle the ladders and to thin apples according to the desires of the owners." .
-<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/identifier> "P120:2782" .
-<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/title> "Thinning apple trees" .
-<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/subject> "Medical care" .
-<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/subject> "Agricultural laborers--Health and hygiene--Oregon" .
-<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/date> "1947" .
-<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/description> "Mrs. Dorothy Burleson, nurse at Athena and Milton Freewater farm labor camps, dispenses cough medicine to Zamora Heriberto Perez. She stands at the door of the trailer dispensary." .
-<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/identifier> "P120:2861" .
-<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/title> "Camp dispensary" .
-<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/subject> "Cauliflower" .
-<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/date> "November 1944" .
-<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/description> "Alphonso Hernandez trims the tops off the crate of cauliflower near Gresham, Oregon. He has nearly 20 acres of cauliflower and brussel sprouts. He estimates a yield of 400 crates of cauliflower to an acre with 9 to 12 heads per crate." .
-<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/identifier> "P120:2794" .
-<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/title> "Cauliflower harvest" .
-<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/subject> "Medical care" .
-<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/subject> "Agricultural laborers--Health and hygiene--Oregon" .
-<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/date> "1947" .
-<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/description> "Mrs. Dorothy Burleson, Walla Walla nurse at Athena and Milton-Freewater farm labor camps, treats a Mexican National in a trailer dispensary at the Athena camp." .
-<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/identifier> "P120:2806" .
-<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/title> "Camp dispensary" .
-<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/description> "Waiting in line for dinner, cafeteria style" .
-<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/identifier> "P20:802" .
-<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/title> "Workers line up for dinner" .
-<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/subject> "Orchards" .
-<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/subject> "Cherries" .
-<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/description> "Mexicans picking cherries" .
-<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/identifier> "P20:798" .
-<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/title> "Picking cherries" .
-<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/subject> "Orchards" .
-<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/date> "ca. 1944" .
-<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/description> "Mexcian workers harvesting tree fruit" .
-<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/identifier> "P40:299" .
-<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/title> "Orchard harvest" .
-<http://oregondigital.org/ns/94> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
-<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/subject> "Peas" .
-<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/date> "1944" .
-<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/description> "Pea vines are fed into the large viners." .
-<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/identifier> "#972" .
-<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/title> "Pea viners" .
-<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/description> "Two Mexicans registered and ready for work" .
-<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/identifier> "P20:796" .
-<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/title> "Ready for work" .
-<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/subject> "Tomatoes" .
-<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/description> "Two of the Mexican pickers with Mrs. Dloff" .
-<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/identifier> "P120:2366" .
-<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/title> "Tomato harvesters" .
-<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/subject> "Potatoes" .
-<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
-<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/description> "Mexicans pick up potatoes on the Dalton & Evans farm near Malin, Klamath county, with a digger in the background." .
-<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/identifier> "P120:2336" .
-<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/title> "Picking potatoes" .
-<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/subject> "Orchards" .
-<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/subject> "Prunes" .
-<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/description> "Humberto Videl Garcia, Mexican interpreter, receives instruction from Jack Hardwicke, crew chief, while Williams listens in." .
+<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/39> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\HC2969_men.tif" .
+<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/title> "Crew chief in the field" .
+<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/identifier> "#2969" .
+<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/subject> "Hop pickers" .
+<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/subject> "Hops" .
+<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/description> "Each picker stays on his own row until finished, carrying a supply of empty sacks fastened to a picking belt." .
+<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/91> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "Bracero Full Resolution1\\P120_2813.tif" .
+<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/title> "Potato pickers" .
+<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/identifier> "P120:2813" .
+<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/subject> "Potatoes" .
+<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
 <http://oregondigital.org/ns/66> <http://purl.org/dc/terms/description> "Mexican at work picking prunes" .
-<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/identifier> "P120:2673" .
-<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/title> "Picking prunes" .
 <http://oregondigital.org/ns/66> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/subject> "Potatoes" .
-<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/description> "Mexicans pick up spuds on the Roy Holmes farm. Of the 10,000 acres of potatoes picked, 4,500 acres were harvested early." .
-<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/identifier> "P120:2430" .
-<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/title> "Harvesting potatoes" .
-<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/subject> "Potatoes" .
-<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/description> "Mexicans put spuds in half-sacks for trucks to pick up at Dalton & Evans Ranch." .
-<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/identifier> "P120:2751" .
-<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/title> "Potato harvest" .
-<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/66> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "Bracero Full Resolution1\\P120_2673.tif" .
+<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/title> "Picking prunes" .
+<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/identifier> "P120:2673" .
+<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/subject> "Prunes" .
+<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/subject> "Orchards" .
+<http://oregondigital.org/ns/66> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/description> "Crew of 20 Mexican Nationals pulling onions on the West & Lyon ranch" .
+<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/35> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P062_0301.tif" .
+<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/title> "Onion harvest" .
+<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/identifier> "P62:301" .
+<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/subject> "Onions" .
+<http://oregondigital.org/ns/35> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/description> "Dining tents have tables and benches. The sides of the tents are raised to provide air circulation." .
+<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/81> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2786.tif" .
+<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/title> "Dining area" .
+<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/identifier> "P120:2786" .
+<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/description> "Mexicans in flax field" .
+<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/34> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1208.tif" .
+<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/title> "Flax field" .
+<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/date> "ca. 1946" .
+<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/identifier> "P20:1208" .
+<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/subject> "Flax" .
+<http://oregondigital.org/ns/34> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/description> "Hardwick and his crew at work in the hop field" .
+<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/40> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\HC2969_hop.tif" .
+<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/title> "Working in hop fields" .
+<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/identifier> "#2969" .
+<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/subject> "Hop pickers" .
+<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/40> <http://purl.org/dc/terms/subject> "Hops" .
+<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/description> "Mexican workers picking cucumbers (Columbia County)" .
+<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/96> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P040_0304.tif" .
+<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/title> "Harvesting cucumbers" .
+<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/date> "ca. 1944" .
+<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/identifier> "P40:304" .
+<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/subject> "Harvesting" .
 <http://oregondigital.org/ns/96> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
 <http://oregondigital.org/ns/96> <http://purl.org/dc/terms/subject> "Cucumbers" .
-<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/date> "ca. 1944" .
-<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/description> "Mexican workers picking cucumbers (Columbia County)" .
-<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/identifier> "P40:304" .
-<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/title> "Harvesting cucumbers" .
-<http://oregondigital.org/ns/96> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/description> "Mexican farm workers pose in camp, Hood River." .
-<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/identifier> "P20:791" .
-<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/title> "Farm workers at their camp" .
-<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/subject> "Cooks" .
-<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/subject> "Cooking utensils" .
-<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/date> "ca. 1942" .
-<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/description> "Mexican workers helping in the kitchens" .
-<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/identifier> "P20:1064" .
-<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/title> "Kitchen workers" .
-<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/description> "A line of men wait outside the dining tents for supper. Service is quick enough to prevent long lines." .
-<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/identifier> "P120:2788" .
-<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/title> "Waiting line for dinner" .
-<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
-<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/subject> "Peas" .
-<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/date> "ca. 1944" .
-<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/description> "At the other end of the viners the threshed vines come out. One young Mexcian, who can read English, is enjoying himself with a magazine." .
-<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/identifier> "P120:2411" .
-<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/title> "Vine threshers" .
-<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/description> "Cafeteria before dinner, Hood River." .
-<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/identifier> "P20:801" .
-<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/title> "Work camp cafeteria" .
-<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/subject> "Medical care" .
-<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/subject> "Agricultural laborers--Health and hygiene--Oregon" .
-<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/description> "Camp health service center" .
-<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/identifier> "P20:1068" .
-<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/title> "Camp health services" .
-<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/subject> "Agricultural laborers--Health and hygiene--Oregon" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/date> "1944" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/description> "Mexican workers washing up at a work camp in Benton County" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/identifier> "P120:2569" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/title> "Washing up" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/subject> "Laundry" .
-<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/date> "ca. 1942" .
-<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/description> "Mexican workers washing and ironing clothes" .
-<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/identifier> "P20:1069" .
-<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/title> "Washing & ironing clothes" .
-<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/subject> "Cucumbers" .
-<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/date> "ca. 1944" .
-<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/description> "Mexican workers picking cucumbers (Columbia County?)" .
-<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/identifier> "P40:289" .
-<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/title> "Picking cucumbers" .
-<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/subject> "Railroad stations" .
-<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/description> "Mexican farm workers just off the train, Hood River" .
-<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/identifier> "P20:790" .
-<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/title> "Hood River train station" .
-<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/subject> "Farm trucks" .
-<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/description> "Workers loaded on the truck and off to the orchard for a day of thinning apples or picking cherries" .
-<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/identifier> "P120:2789" .
-<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/title> "Truck loaded with workers" .
-<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/subject> "Potatoes" .
-<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
-<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/description> "Mexican workers sack potatoes.  The sacking device runs crosswise with this type." .
-<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/identifier> "P120:2351" .
-<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/title> "Sacking harvested potatoes" .
-<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/description> "Bryant Williams, farm labor assistant, and Preston Daughton, USES representative, arrange with S.E. Starr and K.A. Bursell for Mexican workers." .
-<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/identifier> "P120:2670" .
-<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/title> "Contracting for labor" .
-<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/description> "Eating lunch" .
-<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/identifier> "P20:800" .
-<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/title> "Workers eating lunch" .
-<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/description> "Mexicans lined up and waiting for registration and assignment to farmers" .
-<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/identifier> "P20:793" .
-<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/title> "Registration & assignments" .
-<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/subject> "Orchards" .
-<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/description> "Mexicans thinning fruit trees" .
-<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/identifier> "P20:797" .
-<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/title> "Thinning fruit trees" .
-<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/subject> "Tomatoes" .
-<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/description> "Mexican laborers from the Freewater camp pick early tomatoes on the John R. Dloff farm." .
-<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/identifier> "P120:2409" .
-<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/title> "Tomato harvesting" .
-<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
-<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/description> "Mexicans were used on this combine operation on the Harry Wilson farm near Malin." .
-<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/identifier> "P120:2349" .
-<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/title> "Combine operation" .
-<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/subject> "Cauliflower" .
-<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/date> "November 1944" .
-<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/description> "Alphonso Hernandez opens up a beautiful head of cauliflower" .
-<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/identifier> "P120:2799" .
-<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/title> "Cauliflower" .
-<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/subject> "Onions" .
-<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/date> "1944" .
-<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/description> "Onions harvested by Mexican Nationals show tops laid over onions to cure and prevent weather damage to bulbs." .
-<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/identifier> "P62:302" .
-<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/title> "Harvesting onions" .
-<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/subject> "Cucumbers" .
-<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/date> "ca. 1944" .
-<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/description> "Mexican workers harvesting cucumbers" .
-<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/identifier> "P40:290" .
-<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/title> "Harvesting cucumbers" .
-<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/subject> "Farm trucks" .
-<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/date> "1944" .
-<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/description> "Farmer's trucks lined up at the Athena farm labor camp awaiting loads of Mexicans for the pea harvest" .
-<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/identifier> "P120:2398" .
-<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/title> "Laborers ready to work" .
-<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/subject> "Potatoes" .
-<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/date> "ca. 1946" .
-<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/description> "Mexican farm worker picking in potato field" .
-<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/identifier> "P20:1205" .
-<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/title> "Harvesting potatoes" .
-<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/identifier> "#972" .
-<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/subject> "Farm trucks" .
-<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/description> "Loading out operations at one of the Mexican camps in Umatilla County during cannery pea harvest. Farmers came in with their trucks early in the morning to take assigned crews of Mexicans to their own farms, and returned them to the camp after the day's work was finished." .
-<http://oregondigital.org/ns/44> <http://id.loc.gov/vocabulary/relators/PHO> "Howdyshell, Bus" .
-<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/title> "Loading out" .
-<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/subject> "Hop pickers" .
-<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/subject> "Hops" .
-<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/description> "Mexican workers on Horst ranch taking empty baskets for hop picking" .
-<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/identifier> "#2969" .
-<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/title> "Baskets for hop picking" .
-<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/subject> "Prunes" .
-<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/subject> "Orchards" .
-<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/description> "One man per tree was the usual rule in picking up prunes." .
-<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/identifier> "P120:2676" .
-<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/title> "Picking up prunes" .
-<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/description> "Lunches being distributed to Mexican workers at 6:00 a.m" .
-<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/identifier> "P20:799" .
-<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/title> "Lunches distributed" .
-<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/subject> "Tomatoes" .
-<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/description> "Young Mexican worker with his bucket of tomatoes" .
-<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/identifier> "P120:2397" .
-<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/title> "Worker with tomatoes" .
-<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/identifier> "#972" .
-<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/subject> "Holidays--Mexico" .
-<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/subject> "Flags--Mexican" .
-<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/description> "Mexican workers holding the Mexican flag during the September 16 celebration" .
-<http://oregondigital.org/ns/45> <http://id.loc.gov/vocabulary/relators/PHO> "Hodge, Maurice" .
-<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/title> "September 16 celebration" .
-<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/identifier> "P120:1271" .
-<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
-<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/subject> "Peas" .
-<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/description> "For cannery pea harvesting operations in Umatilla county, Mexican labor was a major factor in the successful harvesting operations. Note the 12 pea viners in operation, with trucks bringing in cannery peas from the surrounding fields." .
-<http://oregondigital.org/ns/48> <http://id.loc.gov/vocabulary/relators/PHO> "Howdyshell, Bus" .
-<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/title> "Pea harvest operations" .
-<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/description> "View of the Merrill Mexican work camp looking south" .
-<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/identifier> "P120:2746" .
-<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/title> "Merrill work camp" .
-<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/description> "Morning at the Mexican camp in the Hood River valley with the men turning out of the tents ready to load into the trucks" .
-<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/identifier> "P120:2792" .
-<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/title> "Morning at the camp" .
-<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/identifier> "P20:519" .
-<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/subject> "Flags--Mexican" .
-<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/description> "Flag raising ceremony, Columbia County Mexcian farm labor camp" .
-<http://oregondigital.org/ns/24> <http://id.loc.gov/vocabulary/relators/PHO> "Hodge, Maurice" .
-<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/title> "Camp flag raising" .
-<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/date> "1944" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/description> "Mexican workers living quarters" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/identifier> "P120:2570" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/title> "Living quarters" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/subject> "Civilian Conservation Corps (U.S.)--Facilities" .
-<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/description> "One of the streets in the Mexican worker camp formerly used by the Civilian Conservation Corps" .
-<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/identifier> "P120:2745" .
-<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/title> "Work camp" .
-<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/subject> "Social life--Recreation" .
-<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/subject> "Card games" .
-<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/date> "ca. 1942" .
-<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/description> "Mexican workers playing poker during their after-work hours" .
-<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/identifier> "P20:1071" .
-<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/title> "Poker after work" .
-<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/subject> "Cookery" .
-<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/description> "In the cook tents the crew has been busy preparing the evening meal, the largest of the day." .
-<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/identifier> "P120:2790" .
-<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/title> "Preparing dinner" .
-<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/description> "Pie was the dessert prepared on this day for the Mexican workers" .
-<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/identifier> "P120:2785" .
-<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/title> "Cafeteria pie" .
-<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/subject> "Orchards" .
-<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/description> "Mrs. Merril Hart, retired farmer's wife, speaks Spanish to help direct the Mexican work crews." .
-<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/identifier> "P120:2787" .
-<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/title> "Directing the crews" .
-<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/subject> "Potatoes" .
-<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/description> "Each picker stays on his own row until finished, carrying a supply of empty sacks fastened to a picking belt." .
-<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/identifier> "P120:2813" .
-<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/title> "Potato pickers" .
-<http://oregondigital.org/ns/91> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/date> "1944" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/description> "Mexican workers in Benton County" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/identifier> "P120:2567" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/title> "Mexican workers" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/description> "Returning to camp after the day's work the Mexicans go first to the \"mail wall\" where letters from home are posted." .
-<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/identifier> "P120:2778" .
-<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/title> "Mail call" .
-<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/subject> "Beans" .
-<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/date> "ca. 1946" .
-<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/description> "Mexican bean picker weighing his full bag of beans" .
-<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/identifier> "P20:1204" .
-<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/title> "Weighing beans" .
-<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/description> "Fred Pattison, dispatcher, and a new Mexican arrival, Hood River" .
-<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/identifier> "P20:794" .
-<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/title> "Fred Pattison and new arrival" .
-<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/description> "Mexican workers play guitars during their after-work hours." .
+<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/27> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1070.tif" .
+<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/title> "Workers playing guitars" .
+<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/date> "ca. 1942" .
+<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/identifier> "P20:1070" .
+<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/subject> "Guitars" .
+<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/subject> "Social life--Music" .
+<http://oregondigital.org/ns/27> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/23> <http://purl.org/dc/terms/description> "Mexican Nationals hoeing sugar beets in Malheur County" .
+<http://oregondigital.org/ns/23> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/23> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0531.tif" .
+<http://oregondigital.org/ns/23> <http://purl.org/dc/terms/title> "Hoeing sugar beets" .
+<http://oregondigital.org/ns/23> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/23> <http://purl.org/dc/terms/identifier> "P20:531" .
 <http://oregondigital.org/ns/23> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
 <http://oregondigital.org/ns/23> <http://purl.org/dc/terms/subject> "Beets" .
-<http://oregondigital.org/ns/23> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/23> <http://purl.org/dc/terms/description> "Mexican Nationals hoeing sugar beets in Malheur County" .
-<http://oregondigital.org/ns/23> <http://purl.org/dc/terms/identifier> "P20:531" .
-<http://oregondigital.org/ns/23> <http://purl.org/dc/terms/title> "Hoeing sugar beets" .
-<http://oregondigital.org/ns/23> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/subject> "Onions" .
-<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/description> "Part of a 65-acre onion field owned by West & Lyon being harvested by Mexicans" .
-<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/identifier> "P120:2753" .
-<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/title> "Klamath onion field" .
-<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/description> "Serving men cafeteria style is done at two places" .
-<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/identifier> "P120:2776" .
-<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/title> "Cafeteria service" .
-<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/subject> "Peas" .
-<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/description> "Workers hauling crates of peas" .
-<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/identifier> "#2969" .
-<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/title> "Crates of peas" .
-<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/subject> "Hop pickers" .
-<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/subject> "Hops" .
-<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/description> "Mexicans weigh hops under direction of J.M. Graves on the Horst ranch." .
-<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/identifier> "#2969" .
-<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/title> "Weighing hops" .
-<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/subject> "Hop pickers" .
-<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/subject> "Hops" .
-<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/date> "1943" .
-<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/description> "Humberto Videl Garcia, Mexican interpreter, receives instruction from Jack Hardwicke, crew chief, while Williams listens in." .
-<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/identifier> "#2969" .
-<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/title> "Crew chief in the field" .
-<http://oregondigital.org/ns/39> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/identifier> "P20:518" .
-<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/subject> "Cucumbers" .
-<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/description> "Mexicans harvesting cucumbers, Columbia County" .
-<http://oregondigital.org/ns/25> <http://id.loc.gov/vocabulary/relators/PHO> "Hodge, Maurice" .
-<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/title> "Harvesting cucumbers" .
-<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/103> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/description> "In the evening musical instruments come out and typical Spanish tunes fill the air." .
+<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/78> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2781.tif" .
+<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/title> "Guitar playing" .
+<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/identifier> "P120:2781" .
+<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/subject> "Guitars" .
+<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/subject> "Social life--Music" .
+<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/78> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/description> "Mexican farm workers waiting for registration" .
+<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/20> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0792.tif" .
+<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/title> "Registration, Hood River" .
+<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/identifier> "P20:792" .
+<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/subject> "Luggage" .
+<http://oregondigital.org/ns/20> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/description> "Waiting in line for dinner, cafeteria style" .
+<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/10> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0802.tif" .
+<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/title> "Workers line up for dinner" .
+<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/identifier> "P20:802" .
+<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/10> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/description> "Camp health service center" .
+<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/5> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1068.tif" .
+<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/title> "Camp health services" .
+<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/identifier> "P20:1068" .
+<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/subject> "Agricultural laborers--Health and hygiene--Oregon" .
+<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/subject> "Medical care" .
+<http://oregondigital.org/ns/5> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/description> "Fred Pattison, dispatcher, and a new Mexican arrival, Hood River" .
+<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/18> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0794.tif" .
+<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/title> "Fred Pattison and new arrival" .
+<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/identifier> "P20:794" .
+<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/18> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/103> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_1265.tif" .
 <http://oregondigital.org/ns/103> <http://purl.org/dc/terms/title> "Man with sack of apples" .
-<http://oregondigital.org/ns/103> <http://purl.org/dc/terms/subject> "Apples -- Harvesting" .
-<http://oregondigital.org/ns/103> <http://purl.org/dc/terms/identifier> "P120:1265" .
 <http://oregondigital.org/ns/103> <http://id.loc.gov/vocabulary/relators/PHO> "O.S.C. Extension Service" .
-<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/103> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/103> <http://purl.org/dc/terms/identifier> "P120:1265" .
+<http://oregondigital.org/ns/103> <http://purl.org/dc/terms/subject> "Apples -- Harvesting" .
+<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/description> "One man per tree was the usual rule in picking up prunes." .
+<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/67> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_2676.tif" .
+<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/title> "Picking up prunes" .
+<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/identifier> "P120:2676" .
+<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/subject> "Orchards" .
+<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/subject> "Prunes" .
+<http://oregondigital.org/ns/67> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/description> "Farmer's trucks lined up at the Athena farm labor camp awaiting loads of Mexicans for the pea harvest" .
+<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/55> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2398.tif" .
+<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/title> "Laborers ready to work" .
+<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/identifier> "P120:2398" .
+<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/subject> "Farm trucks" .
+<http://oregondigital.org/ns/55> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/description> "Mrs. Dorothy Burleson, Walla Walla nurse at Athena and Milton-Freewater farm labor camps, treats a Mexican National in a trailer dispensary at the Athena camp." .
+<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/90> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2806.tif" .
+<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/title> "Camp dispensary" .
+<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/date> "1947" .
+<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/identifier> "P120:2806" .
+<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/subject> "Agricultural laborers--Health and hygiene--Oregon" .
+<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/subject> "Medical care" .
+<http://oregondigital.org/ns/90> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/description> "Mexicans learn quickly to handle the ladders and to thin apples according to the desires of the owners." .
+<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/79> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2782.tif" .
+<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/title> "Thinning apple trees" .
+<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/identifier> "P120:2782" .
+<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/subject> "Apples" .
+<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/subject> "Orchards" .
+<http://oregondigital.org/ns/79> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/description> "One of the streets in the Mexican worker camp formerly used by the Civilian Conservation Corps" .
+<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/71> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2745.tif" .
+<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/title> "Work camp" .
+<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/identifier> "P120:2745" .
+<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/subject> "Civilian Conservation Corps (U.S.)--Facilities" .
+<http://oregondigital.org/ns/71> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/description> "Morning at the Mexican camp in the Hood River valley with the men turning out of the tents ready to load into the trucks" .
+<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/87> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2792.tif" .
+<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/title> "Morning at the camp" .
+<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/identifier> "P120:2792" .
+<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/87> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/description> "Mexican workers washing up at a work camp in Benton County" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/62> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2569.tif" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/title> "Washing up" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/identifier> "P120:2569" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/subject> "Agricultural laborers--Health and hygiene--Oregon" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/description> "Mexican workers in Benton County" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/61> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2567.tif" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/title> "Mexican workers" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/identifier> "P120:2567" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/description> "Pie was the dessert prepared on this day for the Mexican workers" .
+<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/80> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2785.tif" .
+<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/title> "Cafeteria pie" .
+<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/identifier> "P120:2785" .
+<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/80> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/description> "Mexicans lined up and waiting for registration and assignment to farmers" .
+<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/19> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0793.tif" .
+<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/title> "Registration & assignments" .
+<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/identifier> "P20:793" .
+<http://oregondigital.org/ns/19> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/description> "Mexican workers playing poker during their after-work hours" .
+<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/28> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1071.tif" .
+<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/title> "Poker after work" .
+<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/date> "ca. 1942" .
+<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/identifier> "P20:1071" .
+<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/subject> "Social life--Recreation" .
+<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/subject> "Card games" .
+<http://oregondigital.org/ns/28> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/description> "Mexican Nationals loaded into a truck ready to begin a days work at harvesting, Hood River" .
+<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/6> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0953.tif" .
+<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/title> "Laborers ready for harvesting" .
+<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/identifier> "P20:953" .
 <http://oregondigital.org/ns/6> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
 <http://oregondigital.org/ns/6> <http://purl.org/dc/terms/subject> "Farm trucks" .
-<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/description> "Mexican Nationals loaded into a truck ready to begin a days work at harvesting, Hood River" .
-<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/identifier> "P20:953" .
-<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/title> "Laborers ready for harvesting" .
-<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/identifier> "P20:517" .
-<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/subject> "Cucumbers" .
-<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/subject> "Pickle industry" .
-<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/description> "Barrels of cucumber pickles harvested by Mexicans, Columbia County" .
-<http://oregondigital.org/ns/26> <http://id.loc.gov/vocabulary/relators/PHO> "Hodge, Maurice" .
-<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/title> "Barrels of pickles" .
-<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/6> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/description> "Mexican workers sack potatoes.  The sacking device runs crosswise with this type." .
+<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/51> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2351.tif" .
+<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/title> "Sacking harvested potatoes" .
+<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/identifier> "P120:2351" .
+<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
+<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/subject> "Potatoes" .
+<http://oregondigital.org/ns/51> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/description> "Mexicans thinning fruit trees" .
+<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/15> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0797.tif" .
+<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/title> "Thinning fruit trees" .
+<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/identifier> "P20:797" .
+<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/subject> "Orchards" .
+<http://oregondigital.org/ns/15> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/description> "Some growers stack their pea vines like hay." .
+<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/46> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\HC0972_box.tif" .
+<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/title> "Boxes of pea vines" .
+<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/identifier> "#972" .
+<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
+<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/subject> "Peas" .
+<http://oregondigital.org/ns/46> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/description> "Mexican workers loading peas with a hay loader into a truck" .
+<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/99> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "Bracero Full Resolution1\\1_P120_2553.tif" .
+<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/title> "Loading peas" .
+<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/date> "1946" .
+<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/identifier> "P120:2553" .
+<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/subject> "Harvesting" .
 <http://oregondigital.org/ns/99> <http://purl.org/dc/terms/subject> "Farm trucks" .
 <http://oregondigital.org/ns/99> <http://purl.org/dc/terms/subject> "Peas" .
-<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/subject> "Harvesting" .
-<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/date> "1946" .
-<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/description> "Mexican workers loading peas with a hay loader into a truck" .
-<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/identifier> "P120:2553" .
-<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/title> "Loading peas" .
-<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
-<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/description> "Two Mexican men in front of the rows of living quarters" .
-<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/identifier> "P20:805" .
-<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/title> "Workers' living quarters" .
-<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/date> "ca. 1943" .
-<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/description> "Dining tents have tables and benches. The sides of the tents are raised to provide air circulation." .
-<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/identifier> "P120:2786" .
-<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/title> "Dining area" .
-<http://oregondigital.org/ns/81> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/8> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/8> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/8> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/99> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/description> "Eating lunch" .
+<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/12> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0800.tif" .
+<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/title> "Workers eating lunch" .
+<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/identifier> "P20:800" .
+<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/12> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/description> "Alphonso Hernandez trims the tops off the crate of cauliflower near Gresham, Oregon. He has nearly 20 acres of cauliflower and brussel sprouts. He estimates a yield of 400 crates of cauliflower to an acre with 9 to 12 heads per crate." .
+<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/88> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2794.tif" .
+<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/title> "Cauliflower harvest" .
+<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/date> "November 1944" .
+<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/identifier> "P120:2794" .
+<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/subject> "Cauliflower" .
+<http://oregondigital.org/ns/88> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
 <http://oregondigital.org/ns/8> <http://purl.org/dc/terms/description> "Mail call, waiting for letters from home (Old Mexico)" .
-<http://oregondigital.org/ns/8> <http://purl.org/dc/terms/identifier> "P20:804" .
-<http://oregondigital.org/ns/8> <http://purl.org/dc/terms/title> "Mail call" .
 <http://oregondigital.org/ns/8> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/8> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0804.tif" .
+<http://oregondigital.org/ns/8> <http://purl.org/dc/terms/title> "Mail call" .
+<http://oregondigital.org/ns/8> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/8> <http://purl.org/dc/terms/identifier> "P20:804" .
+<http://oregondigital.org/ns/8> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/8> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/description> "Mexicans work for growers piling flax." .
+<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/33> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1207.tif" .
+<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/title> "Piling flax" .
+<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/date> "ca. 1946" .
+<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/identifier> "P20:1207" .
+<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/subject> "Flax" .
+<http://oregondigital.org/ns/33> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/description> "Lunches being distributed to Mexican workers at 6:00 a.m" .
+<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/13> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0799.tif" .
+<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/title> "Lunches distributed" .
+<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/identifier> "P20:799" .
+<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/13> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/description> "Mexican workers picking cucumbers" .
+<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/95> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P040_0303.tif" .
+<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/title> "Boxes of cucumbers" .
+<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/date> "ca. 1944" .
+<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/identifier> "P40:303" .
+<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/95> <http://purl.org/dc/terms/subject> "Cucumbers" .
+<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/description> "For cannery pea harvesting operations in Umatilla county, Mexican labor was a major factor in the successful harvesting operations. Note the 12 pea viners in operation, with trucks bringing in cannery peas from the surrounding fields." .
+<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/48> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_1271.tif" .
+<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/title> "Pea harvest operations" .
+<http://oregondigital.org/ns/48> <http://id.loc.gov/vocabulary/relators/PHO> "Howdyshell, Bus" .
+<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/identifier> "P120:1271" .
+<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
+<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/subject> "Peas" .
+<http://oregondigital.org/ns/48> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/description> "Worker shown with peas ready for canning" .
+<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/3> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1067.tif" .
+<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/title> "Peas ready for canning" .
+<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/identifier> "P20:1067" .
+<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/subject> "Peas" .
+<http://oregondigital.org/ns/3> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/description> "Mexican Nationals working on a pea viner" .
+<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/7> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0950.tif" .
+<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/title> "Working with pea viner" .
+<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/date> "ca. 1945" .
+<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/identifier> "P20:950" .
+<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
+<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/subject> "Peas" .
+<http://oregondigital.org/ns/7> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/description> "Style of picking belt, to which sack is fastened and dragged between the legs" .
+<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/68> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2734.tif" .
+<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/title> "Picking belt" .
+<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/identifier> "P120:2734" .
+<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/subject> "Potatoes" .
+<http://oregondigital.org/ns/68> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/description> "Workers loaded on the truck and off to the orchard for a day of thinning apples or picking cherries" .
+<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/84> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2789.tif" .
+<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/title> "Truck loaded with workers" .
+<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/identifier> "P120:2789" .
+<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/subject> "Farm trucks" .
+<http://oregondigital.org/ns/84> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/description> "Mexicans pick up potatoes on the Dalton & Evans farm near Malin, Klamath county, with a digger in the background." .
+<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/49> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2336.tif" .
+<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/title> "Picking potatoes" .
+<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/identifier> "P120:2336" .
+<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/subject> "Potatoes" .
+<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
+<http://oregondigital.org/ns/49> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/description> "Mexican workers holding the Mexican flag during the September 16 celebration" .
+<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/45> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\HC0972_flg.tif" .
+<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/title> "September 16 celebration" .
+<http://oregondigital.org/ns/45> <http://id.loc.gov/vocabulary/relators/PHO> "Hodge, Maurice" .
+<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/identifier> "#972" .
+<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/subject> "Flags--Mexican" .
+<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/subject> "Holidays--Mexico" .
+<http://oregondigital.org/ns/45> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/description> "Part of a 65-acre onion field owned by West & Lyon being harvested by Mexicans" .
+<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/74> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "Bracero Full Resolution1\\P120_2753.tif" .
+<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/title> "Klamath onion field" .
+<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/identifier> "P120:2753" .
+<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/subject> "Onions" .
+<http://oregondigital.org/ns/74> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/description> "Onions are laid out carefully with tops over bulbs to prevent sunburn." .
+<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/69> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2735.tif" .
+<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/title> "Onion harvest" .
+<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/identifier> "P120:2735" .
+<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/subject> "Onions" .
+<http://oregondigital.org/ns/69> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/description> "Mexican workers living quarters" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/63> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2570.tif" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/title> "Living quarters" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/identifier> "P120:2570" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/description> "Mexican workers helping in the kitchens" .
+<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/101> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "Bracero Full Resolution1\\P020_1064.tif" .
+<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/title> "Kitchen workers" .
+<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/date> "ca. 1942" .
+<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/identifier> "P20:1064" .
+<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/subject> "Cooks" .
+<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/subject> "Cooking utensils" .
+<http://oregondigital.org/ns/101> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/description> "Mrs. Merril Hart, retired farmer's wife, speaks Spanish to help direct the Mexican work crews." .
+<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/82> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2787.tif" .
+<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/title> "Directing the crews" .
+<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/identifier> "P120:2787" .
+<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/subject> "Orchards" .
+<http://oregondigital.org/ns/82> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/description> "Mexicans weigh hops under direction of J.M. Graves on the Horst ranch." .
+<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/41> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\HC2969_wei.tif" .
+<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/title> "Weighing hops" .
+<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/identifier> "#2969" .
+<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/subject> "Hop pickers" .
+<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/41> <http://purl.org/dc/terms/subject> "Hops" .
+<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/description> "Loading out operations at one of the Mexican camps in Umatilla County during cannery pea harvest. Farmers came in with their trucks early in the morning to take assigned crews of Mexicans to their own farms, and returned them to the camp after the day's work was finished." .
+<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/44> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\HC0972_loa.tif" .
+<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/title> "Loading out" .
+<http://oregondigital.org/ns/44> <http://id.loc.gov/vocabulary/relators/PHO> "Howdyshell, Bus" .
+<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/identifier> "#972" .
+<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/subject> "Farm trucks" .
+<http://oregondigital.org/ns/44> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/description> "Onions harvested by Mexican Nationals show tops laid over onions to cure and prevent weather damage to bulbs." .
+<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/36> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P062_0302.tif" .
+<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/title> "Harvesting onions" .
+<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/identifier> "P62:302" .
+<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/subject> "Onions" .
+<http://oregondigital.org/ns/36> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/description> "Cafeteria before dinner, Hood River." .
+<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/11> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0801.tif" .
+<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/title> "Work camp cafeteria" .
+<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/identifier> "P20:801" .
+<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/11> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/description> "Serving men cafeteria style is done at two places" .
+<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/75> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2776.tif" .
+<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/title> "Cafeteria service" .
+<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/identifier> "P120:2776" .
+<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/75> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/description> "Workers hauling crates of peas" .
+<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/37> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\HC2969_pea.tif" .
+<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/title> "Crates of peas" .
+<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/identifier> "#2969" .
+<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/subject> "Peas" .
+<http://oregondigital.org/ns/37> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/description> "Alphonso Hernandez opens up a beautiful head of cauliflower" .
+<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/89> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2799.tif" .
+<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/title> "Cauliflower" .
+<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/date> "November 1944" .
+<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/identifier> "P120:2799" .
+<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/subject> "Cauliflower" .
+<http://oregondigital.org/ns/89> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/description> "Mexicans gathered at the loading area beside the road, getting their noon lunches for the day" .
+<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/86> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2791.tif" .
+<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/title> "Getting lunches" .
+<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/identifier> "P120:2791" .
+<http://oregondigital.org/ns/86> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/description> "Harvesting cannery peas in Umatilla County requires about 2,000 additional adult laborers. Mexicans such as those shown here feeding the viners saved the day in harvesting this crop." .
+<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/58> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2413.tif" .
+<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/title> "Loading pea viners" .
+<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/date> "ca. 1944" .
+<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/identifier> "P120:2413" .
+<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
+<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/subject> "Peas" .
+<http://oregondigital.org/ns/58> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/description> "Mexican field workers pull onions and lay them in rows to cure, on West & Lyon farm near Malin." .
+<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/102> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "Bracero Full Resolution1\\1_P062_0419.tif" .
+<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/title> "Pulling onions" .
+<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/identifier> "P62:419" .
+<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/subject> "Onions" .
+<http://oregondigital.org/ns/102> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/description> "Bryant Williams, farm labor assistant, and Preston Daughton, USES representative, arrange with S.E. Starr and K.A. Bursell for Mexican workers." .
+<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/65> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2670.tif" .
+<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/title> "Contracting for labor" .
+<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/identifier> "P120:2670" .
+<http://oregondigital.org/ns/65> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/description> "Mexicans put spuds in half-sacks for trucks to pick up at Dalton & Evans Ranch." .
+<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/73> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2751.tif" .
+<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/title> "Potato harvest" .
+<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/identifier> "P120:2751" .
+<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/subject> "Potatoes" .
+<http://oregondigital.org/ns/73> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/description> "At the other end of the viners the threshed vines come out. One young Mexcian, who can read English, is enjoying himself with a magazine." .
+<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/57> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2411.tif" .
+<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/title> "Vine threshers" .
+<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/date> "ca. 1944" .
+<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/identifier> "P120:2411" .
+<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
+<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/subject> "Peas" .
+<http://oregondigital.org/ns/57> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/description> "Waiting in line for dinner, cafeteria style" .
+<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/9> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0803.tif" .
+<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/title> "Workers line up for dinner" .
+<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/identifier> "P20:803" .
+<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/9> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/description> "Mexicans were used on this combine operation on the Harry Wilson farm near Malin." .
+<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/50> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "Bracero Full Resolution1\\P120_2349.tif" .
+<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/title> "Combine operation" .
+<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/identifier> "P120:2349" .
+<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
+<http://oregondigital.org/ns/50> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/description> "Mexican farm workers just off the train, Hood River" .
+<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/21> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0790.tif" .
+<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/title> "Hood River train station" .
+<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/identifier> "P20:790" .
+<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/subject> "Railroad stations" .
+<http://oregondigital.org/ns/21> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/description> "Mexicans pick up spuds on the Roy Holmes farm. Of the 10,000 acres of potatoes picked, 4,500 acres were harvested early." .
+<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/60> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "Bracero Full Resolution1\\P120_2430.tif" .
+<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/title> "Harvesting potatoes" .
+<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/identifier> "P120:2430" .
+<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/subject> "Potatoes" .
+<http://oregondigital.org/ns/60> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/description> "Mexican workers harvesting cucumbers" .
+<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/97> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P040_0290.tif" .
+<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/title> "Harvesting cucumbers" .
+<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/date> "ca. 1944" .
+<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/identifier> "P40:290" .
+<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/97> <http://purl.org/dc/terms/subject> "Cucumbers" .
+<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/description> "Mexican farm worker picking in potato field" .
+<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/31> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1205.tif" .
+<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/title> "Harvesting potatoes" .
+<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/date> "ca. 1946" .
+<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/identifier> "P20:1205" .
+<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/subject> "Potatoes" .
+<http://oregondigital.org/ns/31> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/description> "A camp with permanent headquarters, buildings and frame cabins used for the Mexicans at Nyssa" .
+<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/53> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2387.tif" .
+<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/title> "Camp headquarters, Nyssa" .
+<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/identifier> "P120:2387" .
+<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/53> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/description> "Mexicans picking up potatoes were either paid 75 cents per hour or by the sack." .
+<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/98> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "Bracero Full Resolution1\\1_P120_2431.tif" .
+<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/title> "Potato harvest" .
+<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/identifier> "P120:2431" .
+<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/subject> "Potatoes" .
+<http://oregondigital.org/ns/98> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/description> "Mexican laborers from the Freewater camp pick early tomatoes on the John R. Dloff farm." .
+<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/56> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2409.tif" .
+<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/title> "Tomato harvesting" .
+<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/identifier> "P120:2409" .
+<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/subject> "Tomatoes" .
+<http://oregondigital.org/ns/56> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/description> "View of the Merrill Mexican work camp looking south" .
+<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/72> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2746.tif" .
+<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/title> "Merrill work camp" .
+<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/identifier> "P120:2746" .
+<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/72> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/description> "Two Mexicans registered and ready for work" .
+<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/16> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0796.tif" .
+<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/title> "Ready for work" .
+<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/identifier> "P20:796" .
+<http://oregondigital.org/ns/16> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/description> "Barrels of cucumber pickles harvested by Mexicans, Columbia County" .
+<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/26> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0517.tif" .
+<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/title> "Barrels of pickles" .
+<http://oregondigital.org/ns/26> <http://id.loc.gov/vocabulary/relators/PHO> "Hodge, Maurice" .
+<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/identifier> "P20:517" .
+<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/subject> "Pickle industry" .
+<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/26> <http://purl.org/dc/terms/subject> "Cucumbers" .
+<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/description> "Two Mexican men in front of the rows of living quarters" .
+<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/2> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0805.tif" .
+<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/title> "Workers' living quarters" .
+<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/identifier> "P20:805" .
+<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/2> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/description> "Flag raising ceremony, Columbia County Mexcian farm labor camp" .
+<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/24> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0591.tif" .
+<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/title> "Camp flag raising" .
+<http://oregondigital.org/ns/24> <http://id.loc.gov/vocabulary/relators/PHO> "Hodge, Maurice" .
+<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/identifier> "P20:519" .
+<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/subject> "Flags--Mexican" .
+<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/24> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/description> "Cherries were so much in demand this year that even the Black Republican variety of small, black cherries were picked clean by the Mexicans and sold for a good price." .
+<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/76> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2777.tif" .
+<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/title> "Picking cherries" .
+<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/identifier> "P120:2777" .
+<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/subject> "Cherries" .
+<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/subject> "Orchards" .
+<http://oregondigital.org/ns/76> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/description> "Mexican workers on Horst ranch taking empty baskets for hop picking" .
+<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/38> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\HC2969_bas.tif" .
+<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/title> "Baskets for hop picking" .
+<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/identifier> "#2969" .
+<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/subject> "Hop pickers" .
+<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/38> <http://purl.org/dc/terms/subject> "Hops" .
+<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/description> "Mexican workers picking cucumbers (Columbia County?)" .
+<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/93> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P040_0289.tif" .
+<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/title> "Picking cucumbers" .
+<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/date> "ca. 1944" .
+<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/identifier> "P40:289" .
+<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/93> <http://purl.org/dc/terms/subject> "Cucumbers" .
+<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/description> "Inside one of the dormitory buildings, showing the type of sleeping quarters provided" .
+<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/70> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2744.tif" .
+<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/title> "Sleeping quarters" .
+<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/identifier> "P120:2744" .
+<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/70> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/description> "Returning to camp after the day's work the Mexicans go first to the \"mail wall\" where letters from home are posted." .
+<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/77> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2778.tif" .
+<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/title> "Mail call" .
+<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/identifier> "P120:2778" .
+<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/77> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/description> "Pea vines are fed into the large viners." .
+<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/47> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\HC0972_pea.tif" .
+<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/title> "Pea viners" .
+<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/identifier> "#972" .
+<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
+<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/subject> "Peas" .
+<http://oregondigital.org/ns/47> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/description> "Mexican farm workers help harvest potatoes." .
+<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/32> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1206.tif" .
+<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/title> "Potato harvest" .
+<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/date> "ca. 1946" .
+<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/identifier> "P20:1206" .
+<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/subject> "Potatoes" .
+<http://oregondigital.org/ns/32> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/description> "Mexican farm workers pose in camp, Hood River." .
+<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/22> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0791.tif" .
+<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/title> "Farm workers at their camp" .
+<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/identifier> "P20:791" .
+<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/22> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/description> "Mexicans harvesting cucumbers, Columbia County" .
+<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/25> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0518.tif" .
+<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/title> "Harvesting cucumbers" .
+<http://oregondigital.org/ns/25> <http://id.loc.gov/vocabulary/relators/PHO> "Hodge, Maurice" .
+<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/identifier> "P20:518" .
+<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/25> <http://purl.org/dc/terms/subject> "Cucumbers" .
+<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/description> "Mexicans picking potatoes on lake bottom farm belong to Scott Warren, Klamath Falls" .
+<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/64> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "Bracero Full Resolution1\\P120_2599.tif" .
+<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/title> "Picking potatoes" .
+<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/date> "1947" .
+<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/identifier> "P120:2599" .
+<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/subject> "Potatoes" .
+<http://oregondigital.org/ns/64> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/description> "Mexican workers loaded into trucks for a day of work in the fields" .
+<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/4> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1062.tif" .
+<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/title> "Ready for field harvesting" .
+<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/identifier> "P20:1062" .
+<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/subject> "Farm trucks" .
+<http://oregondigital.org/ns/4> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/description> "Two of the Mexican pickers with Mrs. Dloff" .
+<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/52> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2366.tif" .
+<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/title> "Tomato harvesters" .
+<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/identifier> "P120:2366" .
+<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/subject> "Tomatoes" .
+<http://oregondigital.org/ns/52> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/description> "Young Mexican worker with his bucket of tomatoes" .
+<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/54> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2397.tif" .
+<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/title> "Worker with tomatoes" .
+<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/identifier> "P120:2397" .
+<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/subject> "Tomatoes" .
+<http://oregondigital.org/ns/54> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/description> "Another view of prune picking" .
+<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/43> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\HC2969_pru.tif" .
+<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/title> "Prune picking" .
+<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/identifier> "#2969" .
+<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/subject> "Orchards" .
+<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/subject> "Prunes" .
+<http://oregondigital.org/ns/43> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/description> "Harvesting the early potato crop in Malheur county was made possible by the presence of the Mexicans. One example is this digger at work on the Roy Holmes farm." .
+<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/59> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2428.tif" .
+<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/title> "Potato harvesting" .
+<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/identifier> "P120:2428" .
+<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/subject> "Harvesting machinery" .
+<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/subject> "Potatoes" .
+<http://oregondigital.org/ns/59> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/description> "Stacking the hop sacks in the field after weighing" .
+<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/42> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\HC2969_sta.tif" .
+<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/title> "Stacking hop sacks" .
+<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/date> "1943" .
+<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/identifier> "#2969" .
+<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/42> <http://purl.org/dc/terms/subject> "Hops" .
+<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/description> "Mexican workers washing and ironing clothes" .
+<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/1> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1069.tif" .
+<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/title> "Washing & ironing clothes" .
+<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/date> "ca. 1942" .
+<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/identifier> "P20:1069" .
+<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/subject> "Laundry" .
+<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/1> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/description> "New arrivals from Mexico" .
+<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/17> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0795.tif" .
+<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/title> "New arrivals, Hood River" .
+<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/identifier> "P20:795" .
+<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/17> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/description> "Mrs. Dorothy Burleson, nurse at Athena and Milton Freewater farm labor camps, dispenses cough medicine to Zamora Heriberto Perez. She stands at the door of the trailer dispensary." .
+<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/92> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2861.tif" .
+<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/title> "Camp dispensary" .
+<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/date> "1947" .
+<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/identifier> "P120:2861" .
+<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/subject> "Agricultural laborers--Health and hygiene--Oregon" .
+<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/subject> "Medical care" .
+<http://oregondigital.org/ns/92> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/description> "A line of men wait outside the dining tents for supper. Service is quick enough to prevent long lines." .
+<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/83> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2788.tif" .
+<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/title> "Waiting line for dinner" .
+<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/identifier> "P120:2788" .
+<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/83> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/description> "Mexicans picking cherries" .
+<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/14> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_0798.tif" .
+<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/title> "Picking cherries" .
+<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/date> "ca. 1942-1947" .
+<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/identifier> "P20:798" .
+<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/subject> "Cherries" .
+<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/subject> "Orchards" .
+<http://oregondigital.org/ns/14> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/description> "In the cook tents the crew has been busy preparing the evening meal, the largest of the day." .
+<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/85> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P120_2790.tif" .
+<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/title> "Preparing dinner" .
+<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/date> "ca. 1943" .
+<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/identifier> "P120:2790" .
+<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/subject> "Cookery" .
+<http://oregondigital.org/ns/85> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/description> "Mexican bean pickers" .
+<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/29> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1203.tif" .
+<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/title> "Bean pickers" .
+<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/date> "ca. 1946" .
+<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/identifier> "P20:1203" .
+<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/subject> "Harvesting" .
+<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/subject> "Beans" .
+<http://oregondigital.org/ns/29> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/description> "Mexican bean picker weighing his full bag of beans" .
+<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/30> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "fullres\\P020_1204.tif" .
+<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/title> "Weighing beans" .
+<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/date> "ca. 1946" .
+<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/identifier> "P20:1204" .
+<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/subject> "Beans" .
+<http://oregondigital.org/ns/30> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
 
