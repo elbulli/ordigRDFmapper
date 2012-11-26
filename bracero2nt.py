@@ -2,6 +2,11 @@ import rdflib
 import yaml
 from rdflib.namespace import Namespace
 from lxml import etree
+from rdflib import plugin 
+
+# setup SPARQL
+plugin.register('sparql', rdflib.query.Processor, 'rdfextras.sparql.processor', 'Processor')
+plugin.register('sparql', rdflib.query.Result, 'rdfextras.sparql.query', 'SPARQLQueryResult')
 
 conf = yaml.load(open('mapping.yml'))
 
@@ -22,8 +27,25 @@ for record in tree.getroot():
               graph.add((pid, ns[predicate[0]][predicate[1]], rdflib.Literal(tag.text)))
     count += 1
 
-outfile = open('braceros.nt', 'w')
-outfile.write(graph.serialize(format='nt'))
-outfile.close()
-            
-        
+full_outfile = open('braceros.nt', 'w')
+full_outfile.write(graph.serialize(format='nt'))
+full_outfile.close()
+
+query = """SELECT ?record ?p ?o WHERE 
+{{?record <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "P0120_2567" . 
+?record ?p ?o} UNION
+{?record <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "P0120_2569" . 
+?record ?p ?o} UNION
+{?record <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "P0120_2570" . 
+?record ?p ?o}}
+"""
+
+q = graph.query(query)
+sample_items = q.result
+sample_graph = rdflib.Graph()
+for triple in sample_items:
+    sample_graph.add(triple)
+
+sample_outfile = open('braceros_sample.nt', 'w')
+sample_outfile.write(sample_graph.serialize(format='nt'))
+sample_outfile.close()
