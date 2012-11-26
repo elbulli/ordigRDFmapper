@@ -10,6 +10,7 @@ namespaces:
   frbr: "http://iflastandards.info/ns/fr/frbr/frbrer/"
   mads: "http://www.loc.gov/mads/rdf/v1#"
   marcrel: "http://id.loc.gov/vocabulary/relators/"
+  premis: "http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#"
 
 mappings:
   image_title: dc:title
@@ -19,5 +20,5 @@ mappings:
   subject: dc:subject
   object_type: dc:type
   item_number: dc:identifier
-  
+  full_resolution: premis:originalName
   
