@@ -14,7 +14,7 @@ namespaces:
 
 mappings:
   image_title: dct:title
-  photographer: marcrel:PHO
+  photographer: marcrel:pht
   date: dct:date
   date_created: dct:created
   date_modified: dct:modified
