@@ -1,41 +1,56 @@
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/created> "2004-03-17" .
+<http://oregondigital.org/ns/61> <http://www.loc.gov/mads/rdf/v1#physicalDescription> "Film negatives" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/identifier> "P120:2567" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/rights> "Permission to use must be obtained from OSU Archives." .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/hasFormat> "B&W print" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/spatial> "Benton County (Ore.)" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/title> "Mexican workers" .
+<http://oregondigital.org/ns/61> <http://tom.oregonstate.edu/conversionSpecifications> "Master scanned with Epson 1640XL scanner at 600 or 800 dpi.  Image manipulated with Adobe Photoshop ver. 7.0." .
+<http://oregondigital.org/ns/61> <http://tom.oregonstate.edu/full> "fullres\\P120_2567.tif" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/isPartOf> "Extension and Experiment Station Communications Photograph Collection (P120)" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/isPartOf> "Braceros in Oregon Photograph Collection" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/description> "Mexican workers in Benton County" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/modified> "2011-12-19" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
+<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
+<http://oregondigital.org/ns/61> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "P0120_2567" .
+<http://oregondigital.org/ns/63> <http://www.loc.gov/mads/rdf/v1#physicalDescription> "Film negatives" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/title> "Living quarters" .
 <http://oregondigital.org/ns/63> <http://purl.org/dc/terms/type> "Image" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/identifier> "P120:2570" .
 <http://oregondigital.org/ns/63> <http://purl.org/dc/terms/spatial> "Benton County (Ore.)" .
 <http://oregondigital.org/ns/63> <http://purl.org/dc/terms/created> "2004-03-17" .
 <http://oregondigital.org/ns/63> <http://purl.org/dc/terms/hasFormat> "B&W print" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/isPartOf> "Extension and Experiment Station Communications Photograph Collection (P120)" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/isPartOf> "Braceros in Oregon Photograph Collection" .
+<http://oregondigital.org/ns/63> <http://tom.oregonstate.edu/conversionSpecifications> "Master scanned with Epson 1640XL scanner at 600 or 800 dpi.  Image manipulated with Adobe Photoshop ver. 7.0." .
+<http://oregondigital.org/ns/63> <http://tom.oregonstate.edu/full> "fullres\\P120_2570.tif" .
 <http://oregondigital.org/ns/63> <http://purl.org/dc/terms/rights> "Permission to use must be obtained from OSU Archives." .
-<http://oregondigital.org/ns/63> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "P0120_2570" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/title> "Living quarters" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/description> "Mexican workers living quarters" .
+<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/modified> "2011-12-19" .
 <http://oregondigital.org/ns/63> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
 <http://oregondigital.org/ns/63> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/identifier> "P120:2570" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/modified> "2011-12-19" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/description> "Mexican workers living quarters" .
-<http://oregondigital.org/ns/63> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/63> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "P0120_2570" .
+<http://oregondigital.org/ns/62> <http://www.loc.gov/mads/rdf/v1#physicalDescription> "Film negatives" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/title> "Washing up" .
 <http://oregondigital.org/ns/62> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/spatial> "Benton County (Ore.)" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/identifier> "P120:2569" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/date> "1944" .
 <http://oregondigital.org/ns/62> <http://purl.org/dc/terms/created> "2004-03-17" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/description> "Mexican workers washing up at a work camp in Benton County" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/hasFormat> "B&W print" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/spatial> "Benton County (Ore.)" .
 <http://oregondigital.org/ns/62> <http://purl.org/dc/terms/rights> "Permission to use must be obtained from OSU Archives." .
 <http://oregondigital.org/ns/62> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "P0120_2569" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/title> "Washing up" .
+<http://oregondigital.org/ns/62> <http://tom.oregonstate.edu/full> "fullres\\P120_2569.tif" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/isPartOf> "Braceros in Oregon Photograph Collection" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/isPartOf> "Extension and Experiment Station Communications Photograph Collection (P120)" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/description> "Mexican workers washing up at a work camp in Benton County" .
+<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/modified> "2011-12-19" .
 <http://oregondigital.org/ns/62> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
 <http://oregondigital.org/ns/62> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
 <http://oregondigital.org/ns/62> <http://purl.org/dc/terms/subject> "Agricultural laborers--Health and hygiene--Oregon" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/identifier> "P120:2569" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/modified> "2011-12-19" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/hasFormat> "B&W print" .
-<http://oregondigital.org/ns/62> <http://purl.org/dc/terms/date> "1944" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/type> "Image" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/spatial> "Benton County (Ore.)" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/created> "2004-03-17" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/description> "Mexican workers in Benton County" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/rights> "Permission to use must be obtained from OSU Archives." .
-<http://oregondigital.org/ns/61> <http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#originalName> "P0120_2567" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/title> "Mexican workers" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/subject> "Agricultural laborers--Mexican--Oregon" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/subject> "Agricultural laborers--Housing--Oregon" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/identifier> "P120:2567" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/modified> "2011-12-19" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/hasFormat> "B&W print" .
-<http://oregondigital.org/ns/61> <http://purl.org/dc/terms/date> "1944" .
+<http://oregondigital.org/ns/62> <http://tom.oregonstate.edu/conversionSpecifications> "Master scanned with Epson 1640XL scanner at 600 or 800 dpi.  Image manipulated with Adobe Photoshop ver. 7.0." .
 

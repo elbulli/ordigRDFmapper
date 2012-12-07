@@ -31,5 +31,5 @@ mappings:
   restrictions: dct:rights
   transmission_data: oregon:conversionSpecifications
   item_url: dct:replaces
-  full_resolution: oregon:full
+  full_resolution_: oregon:full
   file_name: premis:originalName
