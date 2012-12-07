@@ -11,9 +11,11 @@ namespaces:
   mads: "http://www.loc.gov/mads/rdf/v1#"
   marcrel: "http://id.loc.gov/vocabulary/relators/"
   premis: "http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#"
+  oregon: "http://tom.oregonstate.edu"
 
 mappings:
   image_title: dct:title
+  digital_collection_title: dct:isPartOf
   photographer: marcrel:pht
   date: dct:date
   date_created: dct:created
@@ -21,9 +23,13 @@ mappings:
   description_notes: dct:description
   subject: dct:subject
   object_type: dct:type
+  original_format: mads:physicalDescription
+  original_collection: dct:isPartOf
   item_number: dct:identifier
+  other_formats: dct:hasFormat
   geographic_subject: dct:spatial
   restrictions: dct:rights
-  other_formats: dct:hasFormat
+  transmission_data: oregon:digitizationSpecifications
+  item_url: dct:replaces
+  full_resolution: oregon:full
   file_name: premis:originalName
-  
