@@ -11,7 +11,7 @@ namespaces:
   mads: "http://www.loc.gov/mads/rdf/v1#"
   marcrel: "http://id.loc.gov/vocabulary/relators/"
   premis: "http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#"
-  oregon: "http://tom.oregonstate.edu"
+  oregon: "http://tom.oregonstate.edu/"
 
 mappings:
   image_title: dct:title
