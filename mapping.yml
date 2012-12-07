@@ -29,7 +29,7 @@ mappings:
   other_formats: dct:hasFormat
   geographic_subject: dct:spatial
   restrictions: dct:rights
-  transmission_data: oregon:digitizationSpecifications
+  transmission_data: oregon:conversionSpecifications
   item_url: dct:replaces
   full_resolution: oregon:full
   file_name: premis:originalName
