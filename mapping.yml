@@ -14,6 +14,9 @@ namespaces:
   oregon: "http://tom.oregonstate.edu/"
 
 mappings:
+  #
+  # braceros
+  #
   image_title: dct:title
   digital_collection_title: dct:isPartOf
   photographer: marcrel:pht
@@ -33,3 +36,16 @@ mappings:
   item_url: dct:replaces
   full_resolution_: oregon:full
   file_name: premis:originalName
+  #
+  # sheet music
+  #  
+  title: dct:title
+  other_title: dct:alternative
+  composer: marcrel:cmp
+  type: dct:type
+  rights: dct:rights
+  format: dct:format
+  cover_description: dct:description
+  date_of_publication: dct:date
+  original_publisher: dct:publisher
+  contentdm_file_path: oregon:full
