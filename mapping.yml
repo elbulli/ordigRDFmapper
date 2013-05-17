@@ -10,6 +10,7 @@ namespaces:
   frbr: "http://iflastandards.info/ns/fr/frbr/frbrer/"
   mads: "http://www.loc.gov/mads/rdf/v1#"
   marcrel: "http://id.loc.gov/vocabulary/relators/"
+  modsrdf: "http://www.loc.gov/standards/mods/modsrdf/v1/"
   premis: "http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#"
   oregon: "http://tom.oregonstate.edu/"
 
@@ -27,7 +28,7 @@ mappings:
   subject: dct:subject
   object_type: dct:type
   original_format: mads:physicalDescription
-  original_collection: dct:isPartOf
+  original_collection: mads:Collection
   item_number: dct:identifier
   other_formats: dct:hasFormat
   geographic_subject: dct:spatial
@@ -43,10 +44,33 @@ mappings:
   caption_title: dct:alternative
   other_title: dct:alternative
   composer: marcrel:cmp
+  lyricist: marcrel:lyr
+  arranger: marcrel:arr
+  original_place_of_publication: marcrel:pup
+  original_publisher: dct_publisher
+  original_copyright_holder: marcrel:cpc
+  physical_description: modsrdf:physicalExtent
+  physical_medium: dct:description
+  notes: dct:description
+  topic: dct:subject
+  #
+  # tom says not good. need cv for subject.
+  #
+  genre: modsrdf:genre
+  cover_description: dct:description
+  illustrator_artist: oregon:coverArtist
+  lithographer_printer_engraver: marcrel:prm
+  first_line: oregon:sheetmusic/firstLine
+  first_line_of_chorus: oregon:sheetmusic/firsLineChorus
+  larger_work: oregon:sheetmusic/largerWork
+  repository: modsrdf:locationPhysical
+  repository_collection: mads:Collection
+  accession_or_call_number: modsrdf:locationShelfLocator
   type: dct:type
   rights: dct:rights
   format: dct:format
-  cover_description: dct:description
   date_of_publication: dct:date
-  original_publisher: dct:publisher
+  digitization_specficiations: oregon:digitizationSpecifications
+  date_of_digitization: oregon:dateDigitized
+  digital_collection: oregon:set
   contentdm_file_path: oregon:full
